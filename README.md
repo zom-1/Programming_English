@@ -1,5 +1,6 @@
-以下は、[グローバリゼーションデザイン研究所](https://globalization.co.jp/）による
-[プログラミング必須英単語600+](https://progeigo.org/learning/essential-words-600-plus/)
+以下は、グローバリゼーションデザイン研究所 (https://globalization.co.jp/）による
+
+プログラミング必須英単語600+ (https://progeigo.org/learning/essential-words-600-plus/)
 (CC BY-NC-SA 4.0ライセンス)をタブ区切りにして抜き出したもの。
 
 - adv300.txt : アドバンス300
